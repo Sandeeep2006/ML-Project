@@ -1,0 +1,1 @@
+#things like how doing one hot encoding, labelling the features, normalizing the values,etc
